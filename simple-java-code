@@ -7,6 +7,6 @@ public class App {
     }
 
     public static void initializeApp() {
-        System.out.println("App initialized.");
+        System.out.println("app error fix fiix ");
     }
 }
