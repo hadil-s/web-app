@@ -1,0 +1,12 @@
+
+public class App {
+    public static void main(String[] args) {
+        System.out.println("Welcome to the Business Process Web Application");
+
+        initializeApp();
+    }
+
+    public static void initializeApp() {
+        System.out.println("App initialized.");
+    }
+}
